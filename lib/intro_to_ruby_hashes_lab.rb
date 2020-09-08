@@ -4,8 +4,8 @@ end
 
 def my_hash
   {
-    :pet => "Casper",
-    :gym => "Movement"
+    pet: "Casper",
+    gym: "Movement"
   }
 end
 
